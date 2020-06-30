@@ -1,0 +1,7 @@
+body;1;50000
+wing;2;10000
+screw;550;0,005
+gateway;7;1000
+sheathing;20;900
+engine;6;4000
+fuel tank;1;100000
